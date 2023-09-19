@@ -4,7 +4,7 @@
 Python 3 básico (com lógica de programação)
 Python 3 intermediário (com programação procedural e funcional)
 Python 3 avançado (com programação orientada a objetos)
-Módulos do Python, como PySide6 para Interface Gráfica com Qt 6, Selenium, Django e muito mais
+Módulos do Python, como PySide6 para Interface Gráfica com Qt 6, Selenium.
 Django para criação de sites e APIs
 Bases de dados relacionais: SQLite3, MySQL e MariaDB
 Testes automatizados no Python (com TDD básico)
